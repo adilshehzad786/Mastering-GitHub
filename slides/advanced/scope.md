@@ -1,4 +1,5 @@
 ## Scope
 
 - branches
-
+- Merging
+- Rebase
