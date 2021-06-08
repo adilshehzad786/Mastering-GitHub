@@ -1,3 +1,3 @@
-**GitHub Student Developer Pack**
+# GitHub Student Developer Pack
 
 
