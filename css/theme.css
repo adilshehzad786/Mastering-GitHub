@@ -16,8 +16,8 @@ section .references {
  * GLOBAL STYLES
  *********************************************/
 body {
-  background: #e6dada;
-  background-color: #e6dada; }
+  background: #FFFFFF;
+  background-color: #FFFFFF; }
 
 .reveal {
   font-family: "Roboto", Helvetica, sans-serif;
@@ -27,12 +27,12 @@ body {
 
 ::selection {
   color: #fff;
-  background: #ffc0d5;
+  background: #2EA44F;
   text-shadow: none; }
 
 ::-moz-selection {
   color: #fff;
-  background: #ffc0d5;
+  background: #2EA44F;
   text-shadow: none; }
 
 .reveal .slides > section,
@@ -284,7 +284,7 @@ body {
   background: black;
   backround-color: black;
   font-family: monospace;
-  color: #e6dada !important; }
+  color: #FFFFFF !important; }
 
 .section-title body main section, .section-title body main section h1, .section-title body main section h2, .section-title body main section h3, .section-title body main section h4, .section-title body main section h5, .section-title body main section h6,
 .subsection-title body main section,
@@ -294,12 +294,12 @@ body {
 .subsection-title body main section h4,
 .subsection-title body main section h5,
 .subsection-title body main section h6 {
-  color: #e6dada !important; }
+  color: #FFFFFF !important; }
 
 .subsection-title body {
   background: #84A8CA;
   backround-color: #84A8CA;
-  color: #e6dada !important; }
+  color: #FFFFFF !important; }
 
 .slides,
 .reveal .slides > section[data-background-interactive],
@@ -314,3 +314,5 @@ body {
   margin: 15px 0px;
   border: 0;
   box-shadow: none; }
+
+  

@@ -1,2 +1,2 @@
-# Git and GitHub
+# Mastering GitHub
 by **Adil Shehzad**
