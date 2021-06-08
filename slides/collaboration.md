@@ -1,0 +1,1 @@
+<section data-background-image="/IEEE SB JEC LOGO BLACK.png" data-background-size="100vw" ></section>
