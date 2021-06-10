@@ -1,6 +1,6 @@
 **About Me**
 
-<img height="300px" alt="Gwen's profile picture" src="img/png/Adil.png"/>
+<img height="300px" alt="Adil Shehzad" src="img/png/Adil.png"/>
 
 **GitHub Campus Expert**
 
