@@ -1,0 +1,3 @@
+## Show Tags
+
+`git tag`
