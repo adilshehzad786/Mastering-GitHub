@@ -2,6 +2,6 @@
 
 
 
-<small>@[adilshehzad786] on **GitHub**</small>
+<small>@[adilshehzad786] </small>
 
-[adilshehzad786]: https://github.com/adilshehzad786/github-webinar/discussions/6
+[Adil Shehzad]: https://linktr.ee/adilshehzad786
